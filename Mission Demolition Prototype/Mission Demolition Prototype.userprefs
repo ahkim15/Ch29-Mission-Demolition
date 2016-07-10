@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Slingshot.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FollowCam.cs">
     <Files>
-      <File FileName="Assets/Slingshot.cs" Line="15" Column="1" />
+      <File FileName="Assets/Slingshot.cs" Line="48" Column="105" />
+      <File FileName="Assets/FollowCam.cs" Line="39" Column="53" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

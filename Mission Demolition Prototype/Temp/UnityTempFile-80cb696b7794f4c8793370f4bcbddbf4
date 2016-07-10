@@ -43,6 +43,9 @@
 -define:ENABLE_PROFILER
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
-'Assets/Slingshot.cs'
+-define:UNITY_TEAM_LICENSE
+'Assets/__Scripts/CloudCrafter.cs'
+'Assets/__Scripts/FollowCam.cs'
+'Assets/__Scripts/Slingshot.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
